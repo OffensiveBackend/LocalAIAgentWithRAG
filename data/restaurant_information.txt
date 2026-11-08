@@ -1,0 +1,85 @@
+Name of Restaraunt
+-------------------
+Bella Napoli Artisan Pizzeria
+
+About Us
+----------
+Bella Napoli Artisan Pizzeria is a family-owned restaurant established in 2012. Our philosophy is that every pizza should be handcrafted using fresh, locally sourced ingredients whenever possible.
+
+Restaurant Culture
+-------------------
+Our staff are encouraged to treat every customer like family. We believe in patience, friendliness, and transparency. Every employee undergoes customer-service training before serving guests.
+
+Opening Hours
+--------------
+Monday - Thursday:
+11:00 AM - 10:00 PM
+
+Friday:
+11:00 AM - 11:30 PM
+
+Saturday:
+10:00 AM - Midnight
+
+Sunday:
+10:00 AM - 9:00 PM
+
+Location
+---------
+145 Garden Avenue
+Westlands
+Nairobi
+Kenya
+
+Phone
+------
++254 712 345 678
+
+Email
+-------
+hello@bellanapoli.co.ke
+
+Delivery
+----------
+Free delivery within 5 km for orders above KES 2,000.
+
+Reservations
+--------------
+Reservations are accepted online and by phone.
+
+Accessibility
+--------------
+Wheelchair accessible entrance and seating.
+Accessible restroom available.
+
+Parking
+---------
+Free secure customer parking available.
+
+Payment Methods
+----------------
+Cash
+
+Visa
+
+Mastercard
+
+M-PESA
+
+Special Services
+-----------------
+Birthday party hosting
+
+Corporate catering
+
+Outdoor seating
+
+Take-away
+
+Online ordering
+
+Pet-friendly outdoor seating
+
+Sustainability
+---------------
+We use biodegradable pizza boxes and encourage customers to recycle packaging whenever possible.

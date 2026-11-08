@@ -1,0 +1,33 @@
+✔ Foundation
+│
+├── Phase 2
+│   ├── Refactor ChatEngine into a service
+│   ├── FastAPI server
+│   ├── REST endpoints
+│   └── Streaming responses
+│
+├── Phase 3
+│   ├── Desktop GUI shell
+│   ├── Chat layout
+│   ├── File upload
+│   ├── Progress indicators
+│   └── Streaming UI
+│
+├── Phase 4
+│   ├── Session management
+│   ├── Multiple windows
+│   └── Session lifecycle
+│
+├── Phase 5
+│   ├── Markdown rendering
+│   ├── Syntax highlighting
+│   ├── Drag & drop
+│   ├── Themes
+│   └── User settings
+│
+└── Phase 6
+    ├── Embedding cache
+    ├── Duplicate detection
+    ├── Retrieval diagnostics
+    ├── Dockerization
+    └── Executable packaging

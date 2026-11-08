@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+pandas
+flask
+fastapi
+psycopg
+typing
+PySide6 
+httpx
+python-dotenv
+python-docx

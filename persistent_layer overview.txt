@@ -1,0 +1,21 @@
+persistence/
+│
+├── session_service/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── repository.py
+│   ├── service.py
+│   └── cache.py
+│
+├── conversation_service/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── repository.py
+│   └── service.py
+│
+├── database/
+│   ├── __init__.py
+│   ├── connection.py
+│   └── schema.sql
+│
+└── __init__.py
